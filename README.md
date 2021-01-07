@@ -1,5 +1,9 @@
 # README
 
+**DATABASE_URL that should point to a postgres user:password@database**
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
